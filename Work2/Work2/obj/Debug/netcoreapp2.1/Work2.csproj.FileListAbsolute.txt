@@ -1,0 +1,10 @@
+D:\Михаил\Documents\Visual Studio 2019\temp\Work2\Work2\bin\Debug\netcoreapp2.1\Work2.deps.json
+D:\Михаил\Documents\Visual Studio 2019\temp\Work2\Work2\bin\Debug\netcoreapp2.1\Work2.runtimeconfig.json
+D:\Михаил\Documents\Visual Studio 2019\temp\Work2\Work2\bin\Debug\netcoreapp2.1\Work2.runtimeconfig.dev.json
+D:\Михаил\Documents\Visual Studio 2019\temp\Work2\Work2\bin\Debug\netcoreapp2.1\Work2.dll
+D:\Михаил\Documents\Visual Studio 2019\temp\Work2\Work2\bin\Debug\netcoreapp2.1\Work2.pdb
+D:\Михаил\Documents\Visual Studio 2019\temp\Work2\Work2\obj\Debug\netcoreapp2.1\Work2.csproj.CoreCompileInputs.cache
+D:\Михаил\Documents\Visual Studio 2019\temp\Work2\Work2\obj\Debug\netcoreapp2.1\Work2.AssemblyInfoInputs.cache
+D:\Михаил\Documents\Visual Studio 2019\temp\Work2\Work2\obj\Debug\netcoreapp2.1\Work2.AssemblyInfo.cs
+D:\Михаил\Documents\Visual Studio 2019\temp\Work2\Work2\obj\Debug\netcoreapp2.1\Work2.dll
+D:\Михаил\Documents\Visual Studio 2019\temp\Work2\Work2\obj\Debug\netcoreapp2.1\Work2.pdb
